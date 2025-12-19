@@ -1,0 +1,33 @@
+div{
+    border: solid;
+    border-color: red;
+}
+#calc{
+    height: 700px;
+    width: 500px;
+   
+}
+
+#visor{
+    margin-top: 25px;
+    margin-left: 20px;
+    height: 100px;
+    width: 450px;
+    
+}
+#teclado{
+    height: 500px;
+    width: 460px;
+     margin-top: 25px;
+    margin-left: 20px;
+}
+.btn{
+    width: 85px;
+    height: 85px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+}
